@@ -10,6 +10,10 @@ After converting to text , the code receives the text from the file saved and gi
 
 Looking at today's world everything is becoming automatic and so this was just an attempt to make it more.
 
+##Video Demonstration
+
+https://www.youtube.com/watch?v=jiymk77GRIA
+
 ##References
 
 1. Julius Website - Downloading Julius Software http://julius.sourceforge.jp/en_index.php#latest_version
