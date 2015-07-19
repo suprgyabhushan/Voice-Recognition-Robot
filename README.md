@@ -14,6 +14,11 @@ Looking at today's world everything is becoming automatic and so this was just a
 
 https://www.youtube.com/watch?v=jiymk77GRIA
 
+##Contributors
+
+1. Suprgya Bhushan - https://github.com/suprgyabhushan
+2. Raghav Bhatnagar - https://github.com/raghavbhatnagar96
+
 ##References
 
 1. Julius Website - Downloading Julius Software http://julius.sourceforge.jp/en_index.php#latest_version
